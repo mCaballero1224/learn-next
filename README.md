@@ -9,7 +9,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - [x] Chapter 1: Getting Started
 - [x] Chapter 2: CSS Styling
 - [x] Chapter 3: Optimizing Fonts and Images
-- [ ] Chapter 4: Creating Layouts and Pages
+- [x] Chapter 4: Creating Layouts and Pages
 - [ ] Chapter 5: Navigating Between Pages
 - [ ] Chapter 6: Setting Up Your Database
 - [ ] Chapter 7: Fetching Data
